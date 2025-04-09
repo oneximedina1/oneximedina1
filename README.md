@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  
+<h2>👨‍💻 Data Projects:</h2>  
     
 
 
